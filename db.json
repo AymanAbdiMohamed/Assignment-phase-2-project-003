@@ -1,0 +1,19 @@
+{
+  "plants": [
+    {
+      "id": "1",
+      "name": "Aloe Vera",
+      "price": 10
+    },
+    {
+      "id": "2",
+      "name": "Snake Plant",
+      "price": 15
+    },
+    {
+      "id": "de4b",
+      "name": "Lili",
+      "price": 10
+    }
+  ]
+}
